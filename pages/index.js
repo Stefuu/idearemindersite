@@ -17,30 +17,17 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-        Sometime we have a great idea, but time passes and we let it go, so i want to build an app where whenever you have a great idea you record a short video describing it, the app will list all your ideas and show how long it has been "rotting" there, this way you have a sense of the passage of time, and by watching the video and remembering how excited you were when you had the idea maybe makes you get back to it
+        Sometime we have a great idea, but time passes and we let it go, so i want to build an app where whenever you have a great idea you record a short video describing it, the app will list all your ideas and show how long it has been \"rotting\" there, this way you have a sense of the passage of time, and by watching the video and remembering how excited you were when you had the idea maybe makes you get back to it
           <code className={styles.code}>pages/index.js</code>
         </p>
 
         <div className={styles.grid}>
           <a href="https://drive.google.com/file/d/11jcXvltNPQkYOVWDkZc8LIFs1z4c9ZLR/view?usp=sharing" className={styles.card}>
-            <h1>Download APK &rarr;</h1>
+            <h1>Download APK</h1>
             <p>Click here to download the app</p>
           </a>
         </div>
       </main>
-
-      <footer className={styles.footer}>
-        <a
-          href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Powered by{' '}
-          <span className={styles.logo}>
-            <Image src="/vercel.svg" alt="Vercel Logo" width={72} height={16} />
-          </span>
-        </a>
-      </footer>
     </div>
   )
 }
