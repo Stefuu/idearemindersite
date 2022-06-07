@@ -17,7 +17,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-        Sometime we have a great idea, but time passes and we let it go, so i want to build an app where whenever you have a great idea you record a short video describing it, the app will list all your ideas and show how long it has been \"rotting\" there, this way you have a sense of the passage of time, and by watching the video and remembering how excited you were when you had the idea maybe makes you get back to it
+        Sometime we have a great idea, but time passes and we let it go, so i want to build an app where whenever you have a great idea you record a short video describing it, the app will list all your ideas and show how long it has been rotting there, this way you have a sense of the passage of time, and by watching the video and remembering how excited you were when you had the idea maybe makes you get back to it
           <code className={styles.code}>pages/index.js</code>
         </p>
 
