@@ -26,7 +26,7 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-          <a href="https://drive.google.com/file/d/1A1h5xUh2z7E-a-KFbYBknhbZmmW-UFIc/view?usp=sharing" className={styles.card}>
+          <a href="https://drive.google.com/file/d/1vGX4Iblu4fFk-m_32-AtGsDZGvy8qHl1/view?usp=sharing" className={styles.card}>
             <h1>Download APK</h1>
             <p>Click here to download the app</p>
           </a>
