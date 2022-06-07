@@ -12,6 +12,10 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
+        <img width='200' src='https://cdn-icons-png.flaticon.com/512/427/427735.png' alt='Idea Reminder' />
+        <br />
+        <br />
+        <br />
         <h1 className={styles.title}>
           Idea Reminder App
         </h1>
