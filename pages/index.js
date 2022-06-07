@@ -13,41 +13,18 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
+          Idea Reminder App
         </h1>
 
         <p className={styles.description}>
-          Get started by editing{' '}
+        Sometime we have a great idea, but time passes and we let it go, so i want to build an app where whenever you have a great idea you record a short video describing it, the app will list all your ideas and show how long it has been "rotting" there, this way you have a sense of the passage of time, and by watching the video and remembering how excited you were when you had the idea maybe makes you get back to it
           <code className={styles.code}>pages/index.js</code>
         </p>
 
         <div className={styles.grid}>
-          <a href="https://nextjs.org/docs" className={styles.card}>
-            <h2>Documentation &rarr;</h2>
-            <p>Find in-depth information about Next.js features and API.</p>
-          </a>
-
-          <a href="https://nextjs.org/learn" className={styles.card}>
-            <h2>Learn &rarr;</h2>
-            <p>Learn about Next.js in an interactive course with quizzes!</p>
-          </a>
-
-          <a
-            href="https://github.com/vercel/next.js/tree/canary/examples"
-            className={styles.card}
-          >
-            <h2>Examples &rarr;</h2>
-            <p>Discover and deploy boilerplate example Next.js projects.</p>
-          </a>
-
-          <a
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-            className={styles.card}
-          >
-            <h2>Deploy &rarr;</h2>
-            <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
-            </p>
+          <a href="https://drive.google.com/file/d/11jcXvltNPQkYOVWDkZc8LIFs1z4c9ZLR/view?usp=sharing" className={styles.card}>
+            <h1>Download APK &rarr;</h1>
+            <p>Click here to download the app</p>
           </a>
         </div>
       </main>
